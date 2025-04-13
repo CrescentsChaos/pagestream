@@ -1,0 +1,16 @@
+$primary-color: #3490dc;
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+body {
+    font-family: sans-serif;
+    background-color: $primary-color;
+}
+.navbar {
+    background-color: $primary-color;
+    .nav-link {
+        color: white;
+        &:hover {
+            color: darken($primary-color, 10%);
+        }
+    }
+}
