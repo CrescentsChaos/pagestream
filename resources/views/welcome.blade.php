@@ -48,7 +48,7 @@
     <div class="container">
         <h1>Welcome to PageStream</h1>
         <p>Your Laravel project is up and running!</p>
-        <a href="{{ url('/home') }}">Go to Home</a>
+        <a href="{{ url('/dashboard') }}">Go to Dashboard</a>
     </div>
 </body>
 </html>
