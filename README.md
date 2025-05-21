@@ -24,11 +24,3 @@ PageStream is a dynamic book-selling platform inspired by Amazon. It allows user
 - **Authentication:** JWT or session-based  
 - **Other Tools:** MySQL2 (or Sequelize if applicable)
 
----
-
-## Setup Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/CrescentsChaos/pagestream.git
-   cd pagestream
